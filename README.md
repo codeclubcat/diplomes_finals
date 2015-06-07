@@ -1,9 +1,6 @@
 Diplomes Codeclubcat
 ====================
 
-<p>In this folder you can fins the final year diploma archives used for the first promotion of CodeClubers in Catalunya.</p>
+En aquests directoris hi podeu trobar els diferents diplomes que hem anat creant tant per el primer i segon curs com també per la versió a les biblioteques.
 
-# Content
-
-Basically, one Photoshop archive and the correspondent font used. Student name, club place and date can be changed accordingly.
 
